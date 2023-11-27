@@ -24,7 +24,6 @@ defineProps({
 <style lang="scss" scoped>
 .page-container {
   min-height: 100%;
-
   box-sizing: border-box;
 
   .header {
